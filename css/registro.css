@@ -102,4 +102,10 @@
   top: 10px;
 }
 
+#span_nombre {
+  color: #ff7f26
+  background-color: whitesmoke;
+  border: 1px;
+  padding-right: 900px
+}
 
